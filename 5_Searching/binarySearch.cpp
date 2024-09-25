@@ -39,7 +39,7 @@ int main(){
 		}
 	}
 	
-	cout << "The target us present at " << ans << "th position" << endl;
+	cout << "The target us present at index " << ans << endl;
 	return 0;
 	 
 }
